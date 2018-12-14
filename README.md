@@ -1,4 +1,4 @@
-# react-native-components
+# Description
 This repository contain multiple useful components :
 
 1. NextInputWithArrow - This component is for iOS to show Next and Prev buttons to keyboard.
