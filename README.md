@@ -7,3 +7,6 @@ This repository contain multiple useful components :
 4. SimpleWalkthrough - This component shows walkthrough screens like tutorial.
 5. GooglePlacesExample - This component is for Google Places UI.
 and lot more.
+
+## How to use 
+Just need to change component name from <b>index.js</b> file
