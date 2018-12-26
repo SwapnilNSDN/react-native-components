@@ -9,4 +9,13 @@ This repository contain multiple useful components :
 and lot more.
 
 ## How to use 
-Just need to change component name from <b>index.js</b> file
+Just need to change component name from <b>index.js</b> file.
+
+Like<br>
+```
+import App from './App';
+```
+To
+```
+import App from './YourComponentName';
+```
